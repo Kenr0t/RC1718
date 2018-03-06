@@ -1,0 +1,7 @@
+Aritmética de Peano: (0 y S( ))
+
+Principio de Inducción:
+Queremos demostrar que una propiedad P es cierta para todos los elementos de un conjunto S
+	- S tiene que ser ordenado. Habrá un primer ele,emto en S que cumple la propiedad P
+
+Prolog saca la relación de las funciones, como por ejemplo en, en la suma de peano, se da cuenta que hac s( )
