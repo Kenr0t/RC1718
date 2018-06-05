@@ -1,3 +1,4 @@
+@echo off
 git config --global user.email "kenrot.shooter@gmail.com"
 git config --global user.name "Kenr0t"
 
